@@ -1,0 +1,22 @@
+# Dependency directories (تطنيش فولدرات المكتبات التقيلة)
+**/node_modules/
+node_modules/
+
+# Build outputs (تطنيش فولدرات البلد النهائي)
+**/dist/
+**/build/
+
+# Local environment files (تطنيش ملفات البيئة اللي فيها اللينكات المحلية عشان الأمان)
+**/.env
+**/.env.local
+**/.env.production.local
+**/.env.development.local
+
+# Debug logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
