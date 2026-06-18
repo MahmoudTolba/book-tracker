@@ -23,5 +23,5 @@ Follow these sequential steps to get the full application up and running locally
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone https://github.com/MahmoudTolba/book-tracker
 cd book-tracker
